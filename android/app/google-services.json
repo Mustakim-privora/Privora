@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806159169040",
+    "project_id": "privora-9195c",
+    "storage_bucket": "privora-9195c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806159169040:android:c96a425a090f2e7b16fc95",
+        "android_client_info": {
+          "package_name": "com.privora.privora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEUpHzA4NkQfP2l3IZ0o8DjPSuactEio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
